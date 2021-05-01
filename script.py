@@ -1,7 +1,9 @@
 class script(object):
     START_TEXT = """ ᴀ sɪᴍᴘʟᴇ ғɪʟᴇ ʀᴇɴᴀᴍᴇʀ ʙᴏᴛ ᴡɪᴛʜ ᴘᴇʀᴍᴀɴᴇɴᴛ ᴛʜᴜᴍʙɴᴀɪʟ sᴜᴘᴘᴏʀᴛ!💯
+    
+    
 
-<b>Send me any Telegram file and choose appropriate option! </b>"""
+<b>sᴇɴᴅ ᴍᴇ ᴀɴʏ ᴛᴇʟᴇɢʀᴀᴍ ғɪʟᴇ ᴀɴᴅ ᴄʜᴏᴏsᴇ ᴀᴘᴘʀᴏᴘʀɪᴀᴛᴇ ᴏᴘᴛɪᴏɴ! </b>"""
 
     RENAME_403_ERR = "What Are You Doing? You are Banned"
     UPGRADE_TEXT = "CONTACT @prgofficial"
