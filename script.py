@@ -1,5 +1,5 @@
 class script(object):
-    START_TEXT = """ A Simple File Renamer Bot With Permanent Thumbnail support!💯
+    START_TEXT = """ ᴀ sɪᴍᴘʟᴇ ғɪʟᴇ ʀᴇɴᴀᴍᴇʀ ʙᴏᴛ ᴡɪᴛʜ ᴘᴇʀᴍᴀɴᴇɴᴛ ᴛʜᴜᴍʙɴᴀɪʟ sᴜᴘᴘᴏʀᴛ!💯
 
 <b>Send me any Telegram file and choose appropriate option! </b>"""
 
